@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>japan</title>
+  <title>thailand</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -23,8 +23,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>Travel Guide: japan</h1>
-    <p>```json<br>{<br>  "title": "Explore the Wonders of Japan",<br>  "short_description": "Discover the rich culture, stunning landscapes, and vibrant cities of Japan, where tradition meets modernity.",<br>  "attractions": [<br>    {<br>      "name": "Mount Fuji",<br>      "description": "Japan's iconic peak, Mount Fuji is a dormant volcano and a UNESCO World Heritage site, offering breathtaking views and hiking trails.",<br>      "latitude": 35.3606,<br>      "longitude": 138.7274<br>    },<br>    {<br>      "name": "Kyoto's Kinkaku-ji",<br>      "description": "Also known as the Golden Pavilion, this Zen Buddhist temple is famous for its stunning gold leaf exterior and serene gardens.",<br>      "latitude": 35.0394,<br>      "longitude": 135.7292<br>    },<br>    {<br>      "name": "Shibuya Crossing",<br>      "description": "One of the busiest pedestrian crossings in the world, Shibuya Crossing is a symbol of Tokyo's vibrant urban life and culture.",<br>      "latitude": 35.6595,<br>      "longitude": 139.7004<br>    },<br>    {<br>      "name": "Hiroshima Peace Memorial Park",<br>      "description": "A poignant site dedicated to the victims of the atomic bombing in 1945, featuring museums, monuments, and the iconic Atomic Bomb Dome.",<br>      "latitude": 34.3955,<br>      "longitude": 132.4553<br>    },<br>    {<br>      "name": "Nara Park",<br>      "description": "Home to freely roaming deer and historic sites like Todai-ji Temple, Nara Park is a perfect blend of nature and culture.",<br>      "latitude": 34.6852,<br>      "longitude": 135.8392<br>    }<br>  ]<br>}<br>```</p>
+    <h1>Travel Guide: thailand</h1>
+    <p>```json<br>{<br>  "title": "Explore the Wonders of Thailand",<br>  "short_description": "Thailand, known for its stunning beaches, vibrant culture, and delicious cuisine, offers a unique travel experience that blends ancient traditions with modern living.",<br>  "attractions": [<br>    {<br>      "name": "Grand Palace",<br>      "description": "A stunning architectural marvel and the former royal residence, the Grand Palace showcases intricate designs and houses the revered Emerald Buddha.",<br>      "latitude": 13.7540,<br>      "longitude": 100.4913<br>    },<br>    {<br>      "name": "Wat Pho",<br>      "description": "Home to the famous Reclining Buddha, Wat Pho is a historic temple complex known for its beautiful architecture and traditional Thai massage school.",<br>      "latitude": 13.7460,<br>      "longitude": 100.4925<br>    },<br>    {<br>      "name": "Phang Nga Bay",<br>      "description": "Famous for its limestone cliffs and emerald-green waters, Phang Nga Bay is a breathtaking destination for kayaking and exploring hidden caves.",<br>      "latitude": 8.3584,<br>      "longitude": 98.5029<br>    },<br>    {<br>      "name": "Chiang Mai Night Bazaar",<br>      "description": "A vibrant market offering local handicrafts, street food, and souvenirs, the Chiang Mai Night Bazaar is a must-visit for shopping enthusiasts.",<br>      "latitude": 18.7883,<br>      "longitude": 98.9939<br>    },<br>    {<br>      "name": "Railay Beach",<br>      "description": "Renowned for its stunning cliffs and crystal-clear waters, Railay Beach is perfect for rock climbing, sunbathing, and enjoying breathtaking sunsets.",<br>      "latitude": 8.0030,<br>      "longitude": 98.8400<br>    }<br>  ]<br>}<br>```</p>
   </div>
 </body>
 </html>
