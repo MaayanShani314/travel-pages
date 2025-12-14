@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Paris</title>
+  <title>Rome</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -23,8 +23,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>Travel Guide: Paris</h1>
-    <p>```json<br>{<br>  "title": "Explore the Enchantment of Paris",<br>  "short_description": "Discover the city of lights, romance, and culture, where iconic landmarks and exquisite cuisine await at every corner.",<br>  "attractions": [<br>    {<br>      "name": "Eiffel Tower",<br>      "description": "An iconic symbol of Paris, the Eiffel Tower offers breathtaking views of the city from its observation decks.",<br>      "latitude": 48.8584,<br>      "longitude": 2.2945<br>    },<br>    {<br>      "name": "Louvre Museum",<br>      "description": "Home to thousands of works of art, including the Mona Lisa, the Louvre is the world's largest art museum and a historic monument.",<br>      "latitude": 48.8606,<br>      "longitude": 2.3376<br>    },<br>    {<br>      "name": "Notre-Dame Cathedral",<br>      "description": "A masterpiece of French Gothic architecture, Notre-Dame is renowned for its stunning stained glass windows and intricate sculptures.",<br>      "latitude": 48.8534,<br>      "longitude": 2.3499<br>    },<br>    {<br>      "name": "Montmartre",<br>      "description": "A historic district known for its artistic heritage, Montmartre features the famous Sacré-Cœur Basilica and vibrant street art.",<br>      "latitude": 48.8867,<br>      "longitude": 2.3431<br>    },<br>    {<br>      "name": "Champs-Élysées",<br>      "description": "One of the most famous avenues in the world, the Champs-Élysées is lined with shops, theaters, and cafes, leading to the Arc de Triomphe.",<br>      "latitude": 48.8718,<br>      "longitude": 2.3070<br>    }<br>  ]<br>}<br>```</p>
+    <h1>Travel Guide: Rome</h1>
+    <p>```json<br>{<br>  "title": "Explore the Eternal City: Rome",<br>  "short_description": "Discover the rich history, vibrant culture, and stunning architecture of Rome, a city that beautifully blends ancient ruins with modern life.",<br>  "attractions": [<br>    {<br>      "name": "Colosseum",<br>      "description": "An iconic symbol of Ancient Rome, the Colosseum is a massive amphitheater that once hosted gladiatorial games and public spectacles.",<br>      "latitude": 41.8902,<br>      "longitude": 12.4923<br>    },<br>    {<br>      "name": "Vatican City",<br>      "description": "The smallest independent state in the world, Vatican City is home to St. Peter's Basilica, the Sistine Chapel, and the Vatican Museums.",<br>      "latitude": 41.9029,<br>      "longitude": 12.4534<br>    },<br>    {<br>      "name": "Pantheon",<br>      "description": "A former Roman temple and now a church, the Pantheon is renowned for its magnificent dome and oculus, showcasing ancient engineering marvels.",<br>      "latitude": 41.9022,<br>      "longitude": 12.4533<br>    },<br>    {<br>      "name": "Trevi Fountain",<br>      "description": "One of the most famous fountains in the world, the Trevi Fountain is a Baroque masterpiece where visitors toss coins to ensure their return to Rome.",<br>      "latitude": 41.9009,<br>      "longitude": 12.4833<br>    },<br>    {<br>      "name": "Roman Forum",<br>      "description": "The heart of ancient Rome, the Roman Forum is a sprawling complex of ruins that once served as the center of public life and politics.",<br>      "latitude": 41.8925,<br>      "longitude": 12.4853<br>    }<br>  ]<br>}<br>```</p>
   </div>
 </body>
 </html>
