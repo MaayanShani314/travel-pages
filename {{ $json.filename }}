@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Rome</title>
+  <title>New York</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -23,8 +23,8 @@
 </head>
 <body>
   <div class="card">
-    <h1>Travel Guide: Rome</h1>
-    <p>```json<br>{<br>  "title": "Explore the Eternal City: Rome",<br>  "short_description": "Discover the rich history, vibrant culture, and stunning architecture of Rome, a city that beautifully blends ancient ruins with modern life.",<br>  "attractions": [<br>    {<br>      "name": "Colosseum",<br>      "description": "An iconic symbol of Ancient Rome, the Colosseum is a massive amphitheater that once hosted gladiatorial games and public spectacles.",<br>      "latitude": 41.8902,<br>      "longitude": 12.4923<br>    },<br>    {<br>      "name": "Vatican City",<br>      "description": "The smallest independent state in the world, Vatican City is home to St. Peter's Basilica, the Sistine Chapel, and the Vatican Museums.",<br>      "latitude": 41.9029,<br>      "longitude": 12.4534<br>    },<br>    {<br>      "name": "Pantheon",<br>      "description": "A former Roman temple and now a church, the Pantheon is renowned for its magnificent dome and oculus, showcasing ancient engineering marvels.",<br>      "latitude": 41.9022,<br>      "longitude": 12.4533<br>    },<br>    {<br>      "name": "Trevi Fountain",<br>      "description": "One of the most famous fountains in the world, the Trevi Fountain is a Baroque masterpiece where visitors toss coins to ensure their return to Rome.",<br>      "latitude": 41.9009,<br>      "longitude": 12.4833<br>    },<br>    {<br>      "name": "Roman Forum",<br>      "description": "The heart of ancient Rome, the Roman Forum is a sprawling complex of ruins that once served as the center of public life and politics.",<br>      "latitude": 41.8925,<br>      "longitude": 12.4853<br>    }<br>  ]<br>}<br>```</p>
+    <h1>Travel Guide: New York</h1>
+    <p>```json<br>{<br>  "title": "Explore the Vibrant City of New York",<br>  "short_description": "New York City, known as the Big Apple, is a bustling metropolis that offers a unique blend of iconic landmarks, cultural experiences, and culinary delights. From towering skyscrapers to world-class museums, there's something for everyone in this vibrant city.",<br>  "attractions": [<br>    {<br>      "name": "Statue of Liberty",<br>      "description": "A symbol of freedom and democracy, the Statue of Liberty stands on Liberty Island and welcomes millions of visitors each year.",<br>      "latitude": 40.6892,<br>      "longitude": -74.0445<br>    },<br>    {<br>      "name": "Central Park",<br>      "description": "An expansive green oasis in the heart of Manhattan, Central Park offers walking trails, lakes, and recreational activities for all ages.",<br>      "latitude": 40.7851,<br>      "longitude": -73.9683<br>    },<br>    {<br>      "name": "Metropolitan Museum of Art",<br>      "description": "One of the largest and most prestigious art museums in the world, the Met houses an extensive collection of art spanning 5,000 years.",<br>      "latitude": 40.7794,<br>      "longitude": -73.9632<br>    },<br>    {<br>      "name": "Times Square",<br>      "description": "Known as 'The Crossroads of the World', Times Square is famous for its bright lights, Broadway theaters, and vibrant atmosphere.",<br>      "latitude": 40.7580,<br>      "longitude": -73.9855<br>    },<br>    {<br>      "name": "Brooklyn Bridge",<br>      "description": "An iconic suspension bridge connecting Manhattan and Brooklyn, the Brooklyn Bridge offers stunning views of the New York skyline.",<br>      "latitude": 40.7061,<br>      "longitude": -73.9969<br>    }<br>  ]<br>}<br>```</p>
   </div>
 </body>
 </html>
