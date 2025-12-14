@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Paris</title>
+</head>
+<body>
+  <h1>Travel Guide: Paris</h1>
+  <p>```json<br>{<br>  "title": "Explore the Enchanting City of Paris",<br>  "short_description": "Discover the charm and beauty of Paris, the City of Lights, known for its art, fashion, gastronomy, and culture. From iconic landmarks to hidden gems, Paris offers an unforgettable experience for every traveler.",<br>  "attractions": [<br>    {<br>      "name": "Eiffel Tower",<br>      "description": "A global cultural icon of France, the Eiffel Tower is a wrought-iron lattice tower that stands on the Champ de Mars. It offers stunning views of the city from its observation decks.",<br>      "latitude": 48.8584,<br>      "longitude": 2.2945<br>    },<br>    {<br>      "name": "Louvre Museum",<br>      "description": "The world's largest art museum and a historic monument in Paris, the Louvre is home to thousands of works of art, including the Mona Lisa and the Venus de Milo.",<br>      "latitude": 48.8606,<br>      "longitude": 2.3376<br>    },<br>    {<br>      "name": "Notre-Dame Cathedral",<br>      "description": "This medieval Catholic cathedral is a masterpiece of French Gothic architecture, known for its stunning stained glass windows and intricate sculptures.",<br>      "latitude": 48.8534,<br>      "longitude": 2.3499<br>    },<br>    {<br>      "name": "Montmartre",<br>      "description": "A historic district known for its bohemian past, Montmartre is famous for the Basilica of Sacré-Cœur and its vibrant art scene, featuring street artists and cafés.",<br>      "latitude": 48.8867,<br>      "longitude": 2.3431<br>    },<br>    {<br>      "name": "Champs-Élysées and Arc de Triomphe",<br>      "description": "The Champs-Élysées is one of the most famous avenues in the world, lined with shops and cafés, while the Arc de Triomphe honors those who fought for France.",<br>      "latitude": 48.8742,<br>      "longitude": 2.2950<br>    }<br>  ]<br>}<br>```</p>
+</body>
+</html>
