@@ -1,12 +1,30 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Paris</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 40px;
+    }
+    .card {
+      background: white;
+      padding: 24px;
+      max-width: 900px;
+      margin: auto;
+      border-radius: 8px;
+    }
+    h1 {
+      margin-top: 0;
+    }
+  </style>
 </head>
 <body>
-  <h1>Travel Guide: Paris</h1>
-  <p>```json<br>{<br>  "title": "Explore the Enchanting City of Paris",<br>  "short_description": "Discover the charm and beauty of Paris, the City of Lights, known for its art, fashion, gastronomy, and culture. From iconic landmarks to hidden gems, Paris offers an unforgettable experience for every traveler.",<br>  "attractions": [<br>    {<br>      "name": "Eiffel Tower",<br>      "description": "A global cultural icon of France, the Eiffel Tower is a wrought-iron lattice tower that stands on the Champ de Mars. It offers stunning views of the city from its observation decks.",<br>      "latitude": 48.8584,<br>      "longitude": 2.2945<br>    },<br>    {<br>      "name": "Louvre Museum",<br>      "description": "The world's largest art museum and a historic monument in Paris, the Louvre is home to thousands of works of art, including the Mona Lisa and the Venus de Milo.",<br>      "latitude": 48.8606,<br>      "longitude": 2.3376<br>    },<br>    {<br>      "name": "Notre-Dame Cathedral",<br>      "description": "This medieval Catholic cathedral is a masterpiece of French Gothic architecture, known for its stunning stained glass windows and intricate sculptures.",<br>      "latitude": 48.8534,<br>      "longitude": 2.3499<br>    },<br>    {<br>      "name": "Montmartre",<br>      "description": "A historic district known for its bohemian past, Montmartre is famous for the Basilica of Sacré-Cœur and its vibrant art scene, featuring street artists and cafés.",<br>      "latitude": 48.8867,<br>      "longitude": 2.3431<br>    },<br>    {<br>      "name": "Champs-Élysées and Arc de Triomphe",<br>      "description": "The Champs-Élysées is one of the most famous avenues in the world, lined with shops and cafés, while the Arc de Triomphe honors those who fought for France.",<br>      "latitude": 48.8742,<br>      "longitude": 2.2950<br>    }<br>  ]<br>}<br>```</p>
+  <div class="card">
+    <h1>Travel Guide: Paris</h1>
+    <p>```json<br>{<br>  "title": "Explore the Enchantment of Paris",<br>  "short_description": "Discover the city of lights, romance, and culture, where iconic landmarks and exquisite cuisine await at every corner.",<br>  "attractions": [<br>    {<br>      "name": "Eiffel Tower",<br>      "description": "An iconic symbol of Paris, the Eiffel Tower offers breathtaking views of the city from its observation decks.",<br>      "latitude": 48.8584,<br>      "longitude": 2.2945<br>    },<br>    {<br>      "name": "Louvre Museum",<br>      "description": "Home to thousands of works of art, including the Mona Lisa, the Louvre is the world's largest art museum and a historic monument.",<br>      "latitude": 48.8606,<br>      "longitude": 2.3376<br>    },<br>    {<br>      "name": "Notre-Dame Cathedral",<br>      "description": "A masterpiece of French Gothic architecture, Notre-Dame is renowned for its stunning stained glass windows and intricate sculptures.",<br>      "latitude": 48.8534,<br>      "longitude": 2.3499<br>    },<br>    {<br>      "name": "Montmartre",<br>      "description": "A historic district known for its artistic heritage, Montmartre features the famous Sacré-Cœur Basilica and vibrant street art.",<br>      "latitude": 48.8867,<br>      "longitude": 2.3431<br>    },<br>    {<br>      "name": "Champs-Élysées",<br>      "description": "One of the most famous avenues in the world, the Champs-Élysées is lined with shops, theaters, and cafes, leading to the Arc de Triomphe.",<br>      "latitude": 48.8718,<br>      "longitude": 2.3070<br>    }<br>  ]<br>}<br>```</p>
+  </div>
 </body>
 </html>
